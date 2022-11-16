@@ -2,29 +2,29 @@
 # 微信公众号：凡事有券 
 # 公众号配置
 # 公众号appId
-“app_id”： “wx0fc4798f0d8d2fa3”，
-# 公众号应用秘密
-“app_secret”： “e33a917b54a1f08eabd3f0b61f349bc7”，
-# 模板消息ID
-“template_id”： “cuUvbB0XdfyXzAM_Zldnj09qiiN-W8nuAVozSqYA8LY”，
-# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如[“wx1”， “wx2”]
-“user”： [“oNoF-5zLYJ-NaIG0fusRmiD-fJ9o”，“oNoF-5_opVUSAdEuJOzNZCd5EK5k”]，
+"app_id": "wx0fc4798f0d8d2fa3",
+# 公众号appSecret
+"app_secret": "e33a917b54a1f08eabd3f0b61f349bc7",
+# 模板消息id
+"template_id": "cuUvbB0XdfyXzAM_Zldnj09qiiN-W8nuAVozSqYA8LY",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["oNoF-5zLYJ-NaIG0fusRmiD-fJ9o","oNoF-5_opVUSAdEuJOzNZCd5EK5k"],
 
 # 信息配置
 # 和风天气apikey
-“weather_key”： “0898f078a4e64a99a199bba954a6d334”，
+"weather_key": "0898f078a4e64a99a199bba954a6d334",
 # 天行数据apikey
-“tian_api”： “6e3bb48355e7abf855b6376dab1c8630”，
+"tian_api": "6e3bb48355e7abf855b6376dab1c8630",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
-“地区”： “衡阳市”，
+"region": "衡阳市",
 # 生日1
-“生日1”： {“姓名”： “小楠”， “生日”： “r2000-07-19”}，
+"birthday1": {"name": "小楠", "birthday": "r2000-07-1"},
 # 生日2
-“生日2”： {“名称”： “小阳”， “生日”： “r2002-11-01”}，
+"birthday2": {"name": "小阳", "birthday": "r2002-11-"},
 # 相识的日子，格式同上
-“love_date”： “2019-03-11”，
+"love_date": "2019-03-11",
 # 金句中文，如果为空，默认会读取金山的每日金句
-“note_ch”： “”，
+"note_ch": "",
 # 金句英文
-“note_en”： “”
+"note_en": ""
 }
